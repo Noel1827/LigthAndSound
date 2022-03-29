@@ -27,7 +27,7 @@ The following **optional** features are implemented:
 * [ ] More than 4 functional game buttons
 * [ ] Playback speeds up on each turn
 * [X] Computer picks a different pattern each time the game is played
-* [ ] Player only loses after 3 mistakes (instead of on the first mistake)
+* [X] Player only loses after 3 mistakes (instead of on the first mistake)
 * [ ] Game button appearance change goes beyond color (e.g. add an image)
 * [ ] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
 * [ ] User has a limited amount of time to enter their guess on each turn
@@ -67,7 +67,7 @@ I would change the sounds to something more fun like voices of some popular char
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording]https://loom.com/share/2383c36e4a2c46329f95790d0d8ebf9c
 
 
 ## License
