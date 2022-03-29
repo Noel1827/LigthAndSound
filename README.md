@@ -39,8 +39,11 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-LightandSound1.gif
-![](gif2-link-here)
+- Here you can see the required stories of the pre-work.
+![LightandSound1](https://user-images.githubusercontent.com/70292282/160669791-394b78e4-5659-4fe1-9add-211b8f3f6180.gif)
+- You can see some additional features and the computer picks a random pattern every game!
+![LightandSound2](https://user-images.githubusercontent.com/70292282/160671079-86cfc2ea-b45f-4935-9fd4-1d5b8c680113.gif)
+
 ![](gif3-link-here)
 ![](gif4-link-here)
 
